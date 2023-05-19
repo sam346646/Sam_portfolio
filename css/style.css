@@ -28,10 +28,10 @@
     box-sizing:border-box;
 }
 .home_content_section{
-    padding-top: 200px;
+    padding-top: 100px;
 }
 .profile_img_section{
-    padding-top: 250px;
+    padding-top: 150px;
 }
 .profile_img{
     border-radius: 50%;
@@ -58,7 +58,7 @@
 }
 
 /*laptop */
-@media (min-width:781px) and (max-width:1026px){
+@media (min-width:781px) and (max-width:1000px){
     .home,.bgimg{
         height:650px;
     }
